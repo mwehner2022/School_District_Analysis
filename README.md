@@ -10,7 +10,7 @@ In this assignment, a cvs containing student data was analyzed to discover and m
 - Compare and contrast the data through grouping and aggregation functions
 
 ## **Resources**
-- Resources: new_full_student_data.csv, link to code [link to code](Student_Data_Challenge.ipynb)
+- Resources: new_full_student_data.csv, Student_Data_Challenge ![link to code](Student_Data_Challenge.ipynb)
 - Software: pandas & jupyter notebook
 
 ## **Result Summary**
