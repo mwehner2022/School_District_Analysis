@@ -3,15 +3,15 @@
 In this assignment, a cvs containing student data was analyzed to discover and make comparisons.
 
 ### **Goal**
--Create a path to the csv file and create a dataframe the student data
--Clean the dataframe
--Summarize key pieces of data
--Drill down into the data to analyze specific subsets
--Compare and contrast the data through grouping and aggregation functions
+- Create a path to the csv file and create a dataframe the student data
+- Clean the dataframe
+- Summarize key pieces of data
+- Drill down into the data to analyze specific subsets
+- Compare and contrast the data through grouping and aggregation functions
 
 ## **Resources**
--Resources: new_full_student_data.csv
--Software: pandas & jupyter notebook
+- Resources: new_full_student_data.csv, link to code [link to code](Student_Data_Challenge.ipynb)
+- Software: pandas & jupyter notebook
 
 ## **Result Summary**
 The data was summarized to show a statistical analysis of grade level, reading scores, math score, and school budgets. This showed that the average reading score was 72.4, the average math schore was 64.7 and the average budget was $893,742.
